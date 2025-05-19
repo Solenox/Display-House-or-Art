@@ -1,5 +1,4 @@
 # Display-House-or-Art
-// Michael Kokaly, 1/26/24
 // This program outputs either a house or an orgianl piece of art based on the users selection.
 // When it comes to the house that is outputted, it is made depending on the amount of floors the user asks for.
 // For the original art design, if selected will output a piece of my own.
